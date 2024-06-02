@@ -4,6 +4,7 @@ This repository contains the supplementary material (tables, dataset) from my ma
 - **Supplementary_Dataset**: This Excel file contains 8 sheets
   - *Missing SNPs no filt*: Missing SNPs with their frequency for each population.
   - *Missing SNPs filt*: Missing SNPs after filtering for each population.
+  - *Environmental variables*: Environmental variables considered to perform the RDA. These variables are the same used in Carreras et al. (2020) and can be found in their supplementary material too. 
   - *MF_all*: Molecular function GO terms for the RDA dataset containing all populations obtained with GOATOOLS (Klopfenstein et al., 2018) with the transcripts associated with them, the environmental variable, and the normalized counts used for Figure 5 in the main text. 
   - *CC_all*:  Cellular Component GO terms for the RDA dataset containing all populations obtained with GOATOOLS (Klopfenstein et al., 2018) with the transcripts associated with them, the environmental variable, and the normalized counts used for Figure 5 in the main text.
   - *BP_all*:  Biological Process GO terms for the RDA dataset containing all populations obtained with GOATOOLS (Klopfenstein et al., 2018) with the transcripts associated with them, the environmental variable, and the normalized counts used for Figure 5 in the main text.
